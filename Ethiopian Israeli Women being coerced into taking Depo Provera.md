@@ -1,0 +1,38 @@
+- Narrative
+	- In 2012 several newspaper article were published, claiming that Ethiopian immigrants to Israel were systematically given Depo-Provera injections without their consent, or without knowing what the shots were. 
+	- The Isha L'Isha Feminist Center in Haifa produced a report. 
+		- Describes the history of Depo-Provera, and its usage in Israel and Ethiopia. The description of the prevalence of Depo-Provera use in Ethiopia is pretty wrong. They indicate that 70% of female contraception users in Ethiopia use the pill. These numbers are from 1997, 3 years after Ethiopia started a program to increase the use of female contraception. In 1994, the use of female contraception in Ethiopia was 8%. It has grown to 41% in 2019. Much of that growth is in injectables, like Depo-Provera. See studies below.
+		- There are many quotes from the women in the interviews, but they don't provide a coherent narrative of coercion or lying about what the injections were for.
+		- The report lists numbers (from one Israeli HMO) of Depo Provera usage based on 'Origin', and Africa has the largest contingent of users (57%).
+	- This report, along with a documentary about the Ethiopian immigrants, stoked the flames of controversy. 
+	- Based on data from a large Israeli HMO, 57% of the women in Israel who use this 3-month duration injectable contraceptive, are Ethiopian. The Ethiopian population of [~100k in 2008](https://en.wikipedia.org/wiki/Demographics_of_Israel), is less than 2% of the total Israeli population. It would seem that those numbers are very high, then.
+	- The explanations for this given by the Isha l'Isha report were couched mainly in terms of control and coercion by the state and medical authorities.
+	- An alternative explanation is that The Ethiopian women were familiar with Depo-Provera from Ethiopia, where a public campaign of Family Planning focused heavily on injectable contraception, for a variety of (good and bad) reasons.
+	- Another factor is that there are likely to be language difficulties between the Hebrew-speaking medical staff, and the Amharic-speaking women. Medical records were shared between the Ethiopians and Israelis, so if a woman was on Depo-Provera in Ethiopia, it is possible that she would continue to be on it in Israel, even if she didn't know, or didn't understand what shot she was given. Obviously, that is bad, and should be fixed. But it is a far cry from forced injections, and even farther from forced sterilizations.
+	- **TL;DR**: Many Ethiopian immigrants to Israel are/were using Depo-Provera as a contraceptive. The Isha l'Isha report claimed that this was due to coercive and racist policies by the medical establishment. It seems more likely that it is due to Depo-Provera being well-known to Ethiopian women prior to immigrating to Israel. Also, no women in Israel have been forcibly sterilized.
+
+- Studies
+	- Isha l'Isha (Hedva Eyal) Report
+		- [Depo Provera A contraceptive method given via injection A report on its prescription policy among women of the Ethiopian community in Israel](https://isha.org.il/wp-content/uploads/2014/08/%D7%93%D7%A4%D7%95-%D7%90%D7%A0%D7%92%D7%9C%D7%99%D7%AA.pdf) 
+		- 9 individual interviews
+		- 2 group interviews with a total of 30 women
+		- There is reference to a WHO document with a chart of contraception usage in 1997 (http://www.who.int/reproductive-health/publications/HRP_ITT_99_1/HRP_ITT_99_1.9.en.html)but that document does not exist, unfortunately. There are more recent documents from the Ethiopian government, which shows that Injectables are a very popular method of contraception for women there. It is peculiar that Hedya isn't using any of these documents.
+		- This report claims that the Minister of Health at the time was contradicted by the 1997 numbers. The report was written in 2012, when much more recent numbers were available. These numbers show almost exactly what the Health Minister is claiming: High degree of usage of injectables by Ethiopian women in Ethiopia.
+		- There may be a typo in this report, in that it indicates that the story started with an article in 2008, but the first articles I can find are from 2012.
+		- The report was uploaded to the Isha.org.il web site in august of 2014. This is probably not relevant, as it could be an updated version of the report.
+	- [Changes in body weight and blood pressure among women using Depo-Provera injection in Northwest Ethiopia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6694638/#CR5) refers to Depo-Provera being about 40% of the market for injectables in Sub-Saharan Africa. The source given (The UN Contraceptive Patterns study below) doesn't name brands, so the 40% number is not confirmed.
+	- [Contraceptive Prevalence Trends](https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/undesa_pd_2021_cp-empirical-patterns.pdf) shows big growth in the use of injectables in Ethiopia from 1995 - 2005 (and even more growth by 2015)
+	- [UN World Contraceptive patterns 2013](https://digitallibrary.un.org/record/789600?v=pdf) shows that ~76% of Ethiopian women who use modern contraception, use an injectable, but the study does not name the brand names of the contraceptive. For the sub-Saharan region the percentage of injectable is 47%.
+	- [Ethiopia 2000 Demographic and health survey](https://dhsprogram.com/pubs/pdf/FR118/FR118.pdf) shows about 50% of Ethipian women who used contraception used injectables.
+	- An important thing to note is that the percentage of Ethiopian women who use contraception went from 8% in 1994 to 41% in 2019. [This article](https://reproductive-health-journal.biomedcentral.com/articles/10.1186/s12978-022-01435-5) explains this, and has more detailed studies undergirding its claims. Given that I cannot find the WHO study that Hedya Eyal refers to from 1997, it is possible that the much smaller number of women using contraception in 1997 had a different distribution of methods than more recent years, even 2012.
+- Articles
+	- [The Big Lie: Involuntary Sterilization of Black Ethiopian Women](https://blogs.timesofisrael.com/the-big-lie-involuntary-sterilization-of-black-ethiopian-women/) (Times of Israel) While pretty staunchly defending the Israeli Health Ministry, this article gives a decent accounting of what could have happened in many of the cases (language barriers, wishing to fit in, existing medical records from Ethiopia, where Depo-Provera is a very popular method of contraception)
+	- [Ethiopian women in Israel 'given contraceptive without consent'](https://www.theguardian.com/world/2013/feb/28/ethiopian-women-given-contraceptives-israel) (The Guardian)
+	- [The Sterilization of Ethiopian Immigrant Women In Israel Juxtaposed & Revisited](https://pedestalproject.com/2021/06/22/the-sterilization-of-ethiopian-immigrant-women-in-israel-juxtaposed-revisited/) (Pedestal Project) This article claims that the Ethopian women were sterilized.
+	- [Israel reviews contraceptive use for Ethiopian immigrants](https://www.reuters.com/article/idUSBRE90R0SO/) (Reuters)
+	- [Ethiopian women claim Israel forced them to use birth control before letting them immigrate](https://www.timesofisrael.com/ethiopian-women-claim-israel-forced-them-to-use-birth-control-before-letting-them-immigrate/) (Times of Israel)
+	- This is your new *vault*.
+
+Make a note of something, [[create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
+
+When you're ready, delete this note and make the vault your own.
