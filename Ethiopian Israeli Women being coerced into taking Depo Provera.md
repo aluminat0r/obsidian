@@ -3,6 +3,7 @@
 	- The Isha L'Isha Feminist Center in Haifa produced a report. 
 		- Describes the history of Depo-Provera, and its usage in Israel and Ethiopia. The description of the prevalence of Depo-Provera use in Ethiopia is pretty wrong. They indicate that 70% of female contraception users in Ethiopia use the pill. These numbers are from 1997, 3 years after Ethiopia started a program to increase the use of female contraception. In 1994, the use of female contraception in Ethiopia was 8%. It has grown to 41% in 2019. Much of that growth is in injectables, like Depo-Provera. See studies below.
 		- There are many quotes from the women in the interviews, but they don't provide a coherent narrative of coercion or lying about what the injections were for.
+		- There are stories from the women of confusion around the use of the contraceptive, and bad education about the different choices for contraception, like the pill.
 		- The report lists numbers (from one Israeli HMO) of Depo Provera usage based on 'Origin', and Africa has the largest contingent of users (57%).
 	- This report, along with a documentary about the Ethiopian immigrants, stoked the flames of controversy. 
 	- Based on data from a large Israeli HMO, 57% of the women in Israel who use this 3-month duration injectable contraceptive, are Ethiopian. The Ethiopian population of [~100k in 2008](https://en.wikipedia.org/wiki/Demographics_of_Israel), is less than 2% of the total Israeli population. It would seem that those numbers are very high, then.
